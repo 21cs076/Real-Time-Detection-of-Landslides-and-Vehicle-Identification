@@ -32,6 +32,6 @@ In summary, the use of YOLOv8 for real-time landslide detection and buried vehic
 [5] https://ieeexplore.ieee.org/iel8/6287639/10380310/10591795.pdf
 [6] https://www.ias.ac.in/describe/article/jess/133/0127
 [7] https://www.maxapress.com/data/article/dts/preview/pdf/dts-0024-0009.pdf
-[8] https://www.researchgate.net/publication/382167948_LSI YOLOv8_An_improved_rapid_and_high_accuracy_landslide_identification_model_based_on_YOLOv8_from_remote_sensing_images
+[8] https://www.researchgate.net/publication/382167948_LSI-YOLOv8_An_improved_rapid_and_high_accuracy_landslide_identification_model_based_on_YOLOv8_from_remote_sensing_images
 [9] https://bpasjournals.com/library-science/index.php/journal/article/view/3957/3681
 [10] https://www.youtube.com/watch?v=4Q3ut7vqD5o
