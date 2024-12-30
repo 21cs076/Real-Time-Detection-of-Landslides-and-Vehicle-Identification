@@ -2,11 +2,11 @@
 
 The integration of the YOLOv8 (You Only Look Once version 8) model in real-time landslide detection and buried vehicle identification represents a significant advancement in the application of deep learning for environmental monitoring and emergency response. YOLOv8 is known for its efficiency and accuracy in object detection, making it suitable for scenarios where timely information is critical.
 
-**** YOLOv8 Overview
+## YOLOv8 Overview
 
 YOLOv8 is an evolution of the YOLO series of models, designed to enhance real-time object detection capabilities. It employs an anchor-free approach, simplifying the detection process by focusing on center point localization rather than predefined anchor boxes. This allows for more flexible and accurate object detection across various conditions, including different lighting and occlusion scenarios[1][4].
 
-**** Applications in Landslide Detection
+## Applications in Landslide Detection
 
 1. **Detection Methodology**: The application of YOLOv8 in landslide detection involves training the model on datasets that include images captured from satellites and unmanned aerial vehicles (UAVs). This multi-source data integration helps the model learn to identify landslides effectively by recognizing patterns associated with these geological events[2][3].
 
@@ -14,7 +14,7 @@ YOLOv8 is an evolution of the YOLO series of models, designed to enhance real-ti
 
 3. **Challenges**: While YOLOv8 shows promise, challenges remain in terms of data availability and environmental variability. The effectiveness of the model can be limited by factors such as vegetation cover and diverse terrain, which complicate the detection process[2][4].
 
-**** Buried Vehicle Identification
+## Buried Vehicle Identification
 
 1. **Real-Time Vehicle Detection**: In addition to landslide detection, YOLOv8 is being utilized for identifying vehicles buried under debris following a landslide or other disasters. The model's rapid processing capabilities allow for quick assessments of affected areas, helping rescue teams locate trapped individuals or vehicles[1][4].
 
@@ -24,7 +24,7 @@ YOLOv8 is an evolution of the YOLO series of models, designed to enhance real-ti
 
 In summary, the use of YOLOv8 for real-time landslide detection and buried vehicle identification showcases the potential of advanced deep learning models to address pressing challenges in environmental monitoring and disaster management. Its ability to process data quickly while maintaining high accuracy makes it a valuable tool in these critical applications.
 
-Citations:
+### Citations:
 [1] https://www.iieta.org/download/file/fid/142888
 [2] https://www.mdpi.com/2076-3417/14/3/1100
 [3] https://ui.adsabs.harvard.edu/abs/2024JESS..133..127C/abstract
