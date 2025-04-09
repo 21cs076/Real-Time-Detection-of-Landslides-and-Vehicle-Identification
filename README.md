@@ -1,6 +1,6 @@
 # Real-Time Detection of Landslides and Vehicle Identification
 
-This project leverages computer vision and machine learning techniques to detect landslides and identify vehicles in real-time from video input. The system uses YOLO (You Only Look Once) models trained on specific datasets for landslides and vehicles, and provides real-time alerts via SMS using Twilio.
+This project leverages computer vision and machine learning techniques to detect landslides and identify vehicles in real-time. The system uses YOLO (You Only Look Once) models trained on specific datasets for landslides and vehicles, and provides real-time alerts via SMS using Twilio.
 
 ## Features
 
