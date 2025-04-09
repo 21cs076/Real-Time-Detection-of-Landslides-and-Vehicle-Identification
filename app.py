@@ -15,9 +15,9 @@ TWILIO_PHONE_NUMBER = " "
 TO_PHONE_NUMBER = " "
 
 # Paths to YOLO models and data.yaml files
-landslide_model_path = "models/Models/l67s.pt"
+landslide_model_path = "/Models/l67s.pt"
 landslide_yaml_path = "yaml/landslide_data.yaml"
-vehicle_model_path = "models/Models/v55s.pt"
+vehicle_model_path = "/Models/v55s.pt"
 vehicle_yaml_path = "yaml/vehicle_data.yaml"
 
 # Load YOLO models
