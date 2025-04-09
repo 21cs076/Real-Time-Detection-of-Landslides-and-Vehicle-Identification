@@ -18,7 +18,7 @@ TO_PHONE_NUMBER = " "
 landslide_model_path = "/Models/l67s.pt"
 landslide_yaml_path = "/Data/L_data.yaml"
 vehicle_model_path = "/Models/v55s.pt"
-vehicle_yaml_path = "/Data/L_data.yaml"
+vehicle_yaml_path = "/Data/V_data.yaml"
 
 # Load YOLO models
 landslide_model = YOLO(landslide_model_path)
