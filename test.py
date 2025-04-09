@@ -23,10 +23,10 @@ AREA_BBOX = [ , , , ]  # bounding box
 RESOLUTION = 1024  # Image width/height in pixels
 
 # YOLO Model Paths
-landslide_model_path = "models/Models/l67s.pt"
-landslide_yaml_path = "yaml/landslide_data.yaml"
-vehicle_model_path = "models/Models/v55s.pt"
-vehicle_yaml_path = "yaml/vehicle_data.yaml"
+landslide_model_path = "/Models/l67s.pt"
+landslide_yaml_path = "/Data/L_data.yaml"
+vehicle_model_path = "/Models/v55s.pt"
+vehicle_yaml_path = "/Data/V_data.yaml"
 
 # GUI Settings
 MAX_DISPLAY_WIDTH, MAX_DISPLAY_HEIGHT = 960, 540
