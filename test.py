@@ -19,7 +19,7 @@ TO_PHONE_NUMBER = " "
 
 # Sentinel Hub (Replace with your Instance ID)
 INSTANCE_ID = " "
-AREA_BBOX = [ , , , ]  #bounding box
+AREA_BBOX = [ , , , ]  # bounding box
 RESOLUTION = 1024  # Image width/height in pixels
 
 # YOLO Model Paths
